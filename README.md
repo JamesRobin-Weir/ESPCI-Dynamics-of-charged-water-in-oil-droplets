@@ -1,2 +1,2 @@
 # ESPCI-Dynamics-of-charged-water-in-oil-droplets
-Données du stage UROP sous Jean Comtet
+Données relatifs à un stage SORBONNE UNIVERSITE PSL - UROP sous le tuteur Jean Comtet dans le laboratoire SIMM
